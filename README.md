@@ -6,7 +6,7 @@
 
 One sentence, under 200 characters, pitching an absurdly specific micro-startup idea for lazy AI agents: a business so narrow it sounds like a joke and so sensible that a buyer would actually pay.
 
-> A lazy AI agent that attends Zoom standups, nods on camera, and says 'sounds good' at the right moment, charging oversleeping remote workers $3 per meeting they skip.
+> A lazy AI agent that attends your morning standup as a looping video of you nodding, says 'sounds good' whenever it hears your name, and charges sleepy remote workers $3 per meeting they skip.
 
 ## Run it
 

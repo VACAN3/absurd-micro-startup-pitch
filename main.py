@@ -8,9 +8,9 @@ to /output/entry.txt (one sentence, under 200 characters).
 import os
 
 PITCH = (
-    "A lazy AI agent that attends Zoom standups, nods on camera, and says "
-    "'sounds good' at the right moment, charging oversleeping remote workers "
-    "$3 per meeting they skip."
+    "A lazy AI agent that attends your morning standup as a looping video "
+    "of you nodding, says 'sounds good' whenever it hears your name, and "
+    "charges sleepy remote workers $3 per meeting they skip."
 )
 
 OUTPUT_PATH = "/output/entry.txt"
